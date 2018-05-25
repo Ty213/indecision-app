@@ -3,4 +3,4 @@
 
 ### Built with React and Sass.
 
-![Indecision App](https://imgur.com/a/cMTwHg8 "Indecision App")
+<img href="https://imgur.com/a/cMTwHg8">
